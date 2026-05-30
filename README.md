@@ -1,2 +1,1 @@
-# francocerino.github.io
-Personal website
+# Personal website
